@@ -1,0 +1,6 @@
+Create an S.4 VM named dev‑box
+Resize dev‑box to flavor M.8
+Delete the VM dev‑box
+Create a private network called blue‑net.
+Create a 100 GB volume named data‑disk.
+What’s my project usage?
